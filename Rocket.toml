@@ -1,0 +1,7 @@
+[debug]
+url = "http://localhost:8000"
+fe_url = "http://localhost:8080"
+
+[release]
+url = "https://lightningchess.io"
+fe_url = "https://lightningchess-fe.com"
